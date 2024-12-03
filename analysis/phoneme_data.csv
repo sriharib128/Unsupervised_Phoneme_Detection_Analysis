@@ -1,0 +1,62 @@
+Phoneme,Manner of Articulation,Place of Articulation,Voicing
+m,Nasal,Bilabial,Voiced
+th,Fricative,Dental,Voiceless
+ch,Affricate,Palato-Alveolar,Voiceless
+oy,Diphthong,-,Voiced
+dx,Flap,Alveolar,Voiced
+aa,Vowel,Low back,Voiced
+y,Glide,Palatal,Voiced
+ow,Diphthong,-,Voiced
+ih,Vowel,High front,Voiced
+t,Stop,Alveolar,Voiceless
+h#,Silence,-,-
+dh,Fricative,Dental,Voiced
+l,Lateral Liquid,Alveolar,Voiced
+uw,Vowel,High back,Voiced
+b,Stop,Bilabial,Voiced
+ax,Vowel,Mid central,Voiced
+ax-h,Vowel,Mid central,Voiced
+z,Fricative,Alveolar,Voiced
+hv,Fricative,Glottal,Voiceless
+sh,Fricative,Palato-Alveolar,Voiceless
+v,Fricative,Labiodental,Voiced
+d,Stop,Alveolar,Voiced
+em,Nasal,Bilabial,Voiced
+epi,Epenthetic,-,-
+uh,Vowel,High back,Voiced
+ae,Vowel,Low front,Voiced
+ey,Diphthong,-,Voiced
+w,Glide,Bilabial,Voiced
+s,Fricative,Alveolar,Voiceless
+jh,Affricate,Palato-Alveolar,Voiced
+g,Stop,Velar,Voiced
+r,Liquid,Alveolar,Voiced
+axr,Vowel (R-colored),Mid central,Voiced
+f,Fricative,Labiodental,Voiceless
+iy,Vowel,High front,Voiced
+p,Stop,Bilabial,Voiceless
+ao,Vowel,Mid back,Voiced
+bcl,Closure,Bilabial,Voiceless
+ng,Nasal,Velar,Voiced
+hh,Fricative,Glottal,Voiceless
+ux,Vowel,High back,Voiced
+kcl,Closure,Velar,Voiceless
+gcl,Closure,Velar,Voiced
+el,Liquid,Alveolar,Voiced
+q,Glottal Stop,Glottal,Voiceless
+ah,Vowel,Low central,Voiced
+ay,Diphthong,-,Voiced
+k,Stop,Velar,Voiceless
+en,Nasal,Alveolar,Voiced
+pau,Pause,-,-
+zh,Fricative,Palato-Alveolar,Voiced
+n,Nasal,Alveolar,Voiced
+pcl,Closure,Bilabial,Voiceless
+nx,Nasal,Alveolar,Voiced
+eh,Vowel,Mid front,Voiced
+dcl,Closure,Alveolar,Voiceless
+eng,Nasal,Velar,Voiced
+tcl,Closure,Alveolar,Voiceless
+ix,Vowel,High central,Voiced
+er,Vowel (R-colored),Mid central,Voiced
+aw,Diphthong,-,Voiced

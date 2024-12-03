@@ -1,0 +1,93 @@
+Manner: Stop
+Top 5 Failed Pairs with Count:
+('dx', 'q'): 107
+('q', 't'): 31
+('b', 'q'): 24
+('d', 'q'): 20
+('b', 'dx'): 19
+Top 5 Matched Pairs with Percentage:
+('g', 't'): Failed Count = 0, Match Percentage = 100.00%
+('t', 't'): Failed Count = 0, Match Percentage = 100.00%
+('d', 't'): Failed Count = 0, Match Percentage = 100.00%
+('p', 'p'): Failed Count = 0, Match Percentage = 100.00%
+('b', 'g'): Failed Count = 0, Match Percentage = 100.00%
+
+Manner: Affricate
+Top 5 Failed Pairs with Count:
+('ch', 'ch'): 6
+('jh', 'jh'): 1
+('ch', 'jh'): 1
+Top 5 Matched Pairs with Percentage:
+('ch', 'jh'): Failed Count = 1, Match Percentage = 95.24%
+('jh', 'jh'): Failed Count = 1, Match Percentage = 87.50%
+('ch', 'ch'): Failed Count = 6, Match Percentage = 60.00%
+
+Manner: Fricative
+Top 5 Failed Pairs with Count:
+('hv', 'sh'): 310
+('dh', 's'): 91
+('s', 's'): 58
+('s', 'z'): 55
+('s', 'v'): 51
+Top 5 Matched Pairs with Percentage:
+('dh', 'th'): Failed Count = 0, Match Percentage = 100.00%
+('zh', 'zh'): Failed Count = 0, Match Percentage = 100.00%
+('dh', 'zh'): Failed Count = 0, Match Percentage = 100.00%
+('hh', 'hh'): Failed Count = 0, Match Percentage = 100.00%
+('sh', 'zh'): Failed Count = 0, Match Percentage = 100.00%
+
+Manner: Nasal
+Top 5 Failed Pairs with Count:
+('m', 'n'): 84
+('m', 'nx'): 38
+('n', 'ng'): 20
+('n', 'nx'): 20
+('m', 'm'): 19
+Top 5 Matched Pairs with Percentage:
+('em', 'n'): Failed Count = 0, Match Percentage = 100.00%
+('em', 'nx'): Failed Count = 0, Match Percentage = 100.00%
+('en', 'nx'): Failed Count = 0, Match Percentage = 100.00%
+('em', 'm'): Failed Count = 0, Match Percentage = 100.00%
+('n', 'n'): Failed Count = 18, Match Percentage = 92.14%
+
+Manner: Approximants
+Top 5 Failed Pairs with Count:
+('l', 'r'): 351
+('l', 'w'): 235
+('r', 'w'): 145
+('l', 'y'): 91
+('r', 'y'): 86
+Top 5 Matched Pairs with Percentage:
+('w', 'w'): Failed Count = 14, Match Percentage = 68.89%
+('l', 'r'): Failed Count = 351, Match Percentage = 65.59%
+('el', 'r'): Failed Count = 15, Match Percentage = 64.29%
+('el', 'l'): Failed Count = 7, Match Percentage = 63.16%
+('el', 'w'): Failed Count = 4, Match Percentage = 60.00%
+
+Manner: Diphthong
+Top 5 Failed Pairs with Count:
+('axr', 'ow'): 59
+('axr', 'ay'): 54
+('axr', 'ey'): 38
+('aw', 'axr'): 34
+('axr', 'er'): 31
+Top 5 Matched Pairs with Percentage:
+('er', 'oy'): Failed Count = 0, Match Percentage = 100.00%
+('er', 'ey'): Failed Count = 16, Match Percentage = 75.76%
+('axr', 'ey'): Failed Count = 38, Match Percentage = 73.97%
+('axr', 'er'): Failed Count = 31, Match Percentage = 72.32%
+('axr', 'oy'): Failed Count = 2, Match Percentage = 71.43%
+
+Manner: Vowel
+Top 5 Failed Pairs with Count:
+('ae', 'iy'): 479
+('ix', 'iy'): 340
+('ao', 'iy'): 313
+('eh', 'iy'): 275
+('aa', 'iy'): 229
+Top 5 Matched Pairs with Percentage:
+('uh', 'uw'): Failed Count = 0, Match Percentage = 100.00%
+('ae', 'ae'): Failed Count = 0, Match Percentage = 100.00%
+('ax-h', 'uh'): Failed Count = 0, Match Percentage = 100.00%
+('ax-h', 'ix'): Failed Count = 3, Match Percentage = 90.00%
+('ao', 'ax-h'): Failed Count = 1, Match Percentage = 88.89%x`
