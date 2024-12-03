@@ -1,0 +1,14 @@
+boltons==20.0.0
+dill==0.3.1.1
+hydra-core==0.11.3
+librosa==0.7.2
+# numpy==1.18.1
+pytorch-lightning==0.7.6
+# test-tube==0.7.5
+torch
+torch-optimizer
+torchaudio
+torchvision
+tqdm==4.42.1
+wandb==0.8.24
+numba==0.48
